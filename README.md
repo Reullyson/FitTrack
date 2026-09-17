@@ -4,19 +4,14 @@ Aplicativo desenvolvido em React Native utilizando Expo.
 
 ## Funcionalidades
 
-- Exibição do título "Meu treino de hoje"
-- Exibição dos exercícios:
-  - Supino reto
-  - Agachamento
-  - Rosca direta
+- Exibição do título "Meu cardapio de hoje"
+- Exibição dos produtos:
+  - Arroz
+  - Feijão
+  - Café
 
 ## Tecnologias utilizadas
 
 - React Native
 - Expo
 - JavaScript
-
-## Resultado
-
-A tela apresenta o treino do dia de forma simples, utilizando os componentes `View` e `Text`.
-![Tela do aplicativo](./assets/result.png)
